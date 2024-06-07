@@ -37,3 +37,12 @@ const pickImage = async () => {
     }
   };
 ```
+
+## Run the app
+You can run the app with the command line :
+
+```cpp
+npx expo start
+```
+
+After that you can scan the qr code with the expo mobile app and you will be able to use my mobile app.
